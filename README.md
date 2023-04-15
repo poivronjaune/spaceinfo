@@ -17,3 +17,8 @@ Sputnik 1 First man made satellite (1957-10-04)
 ## Satellite Constellation  
 [One Web](https://oneweb.net/) - 500 Satelites on orbit  
 [Space X](https://www.starlink.com/) - High-speed, low-latency broadband internet  
+
+
+## Different orbits  
+[Geostationary orbit](https://en.wikipedia.org/wiki/Geosynchronous_orbit) : 35,786 km away from earth, 75 km between satelites  
+
