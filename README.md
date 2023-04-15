@@ -24,5 +24,8 @@ Sputnik 1 First man made satellite (1957-10-04)
 
 
 ## Different orbits  
-[Geostationary orbit](https://en.wikipedia.org/wiki/Geosynchronous_orbit) : 35,786 km away from earth, 75 km between satelites  
-
+[Geostationary Earth orbit](https://en.wikipedia.org/wiki/Geosynchronous_orbit) : 35,786 km away from earth, 75 km between satelites  
+[Medium Earth orbits](https://en.wikipedia.org/wiki/Medium_Earth_orbit) : Located between 2,000 km and 35,786 km  
+[Low Earth orbits](https://en.wikipedia.org/wiki/Low_Earth_orbit) : Loacted under 2,000 km  
+  
+   
