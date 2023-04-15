@@ -1,5 +1,6 @@
 # Space Info
 Links to interesting space information  
+Sputnik 1 First man made satellite (1957-10-04)  
 
 ## Documentaries  
 [Alerte aux débris spatiaux](https://ici.exploratv.ca/emissions/alerte-aux-debris-spatiaux/)
