@@ -1,8 +1,12 @@
 # Space Info
 Links to interesting space information  
 
-## Documentatries  
+## Documentaries  
 [Alerte aux débris spatiaux](https://ici.exploratv.ca/emissions/alerte-aux-debris-spatiaux/)
+
+## Agencies & Space Debris  
+[Centre National Des Études Spatiales](https://cnes.fr/fr/conference-les-debris-spatiaux-problemes-et-solutions)  
+[NASA](https://earthobservatory.nasa.gov/images/40173/space-debris) 
 
 ## Space debris  
 [MEDUSA](https://conference.sdo.esoc.esa.int/proceedings/sdc7/paper/487/SDC7-paper487.pdf) Mechanism for Entrapment of Debris Using Shape memory Alloy  
