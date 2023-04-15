@@ -5,6 +5,10 @@ Sputnik 1 First man made satellite (1957-10-04)
 ## Documentaries  
 [Alerte aux débris spatiaux](https://ici.exploratv.ca/emissions/alerte-aux-debris-spatiaux/)
 
+## Legal Issues    
+[United Nations](https://www.unoosa.org/oosa/en/ourwork/copuos/index.html) : Committee on the Peaceful Uses of Outer Space  
+[Outer Space Treaty](https://en.wikipedia.org/wiki/Outer_Space_Treaty)  
+
 ## Agencies & Space Debris  
 [Centre National Des Études Spatiales](https://cnes.fr/fr/conference-les-debris-spatiaux-problemes-et-solutions)  
 [NASA](https://earthobservatory.nasa.gov/images/40173/space-debris)  
