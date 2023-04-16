@@ -15,8 +15,11 @@ Sputnik 1 First man made satellite (1957-10-04)
 [Canada Space Agency](https://www.asc-csa.gc.ca/eng/satellites/neossat/) - not much information  
 
 ## Space debris  
+[Kessler effect](https://en.wikipedia.org/wiki/Kessler_syndrome) 1978 theory of low orbit junk collision causing cascade effects  
 [MEDUSA](https://conference.sdo.esoc.esa.int/proceedings/sdc7/paper/487/SDC7-paper487.pdf) Mechanism for Entrapment of Debris Using Shape memory Alloy  
 [Projets Compétitifs Retrait de Débris Spaciaux](https://www.canada.ca/fr/ministere-defense-nationale/programmes/idees-defense/element/projets-competitifs/challenges/risque-collision-localiser-enlever-debris-spatiaux.html)  
+[National Geographics Space Debris](https://www.nationalgeographic.fr/espace/debris-spatiaux-une-menace-toujours-plus-grande)  
+
 
 
 ## Satellite Constellation  
